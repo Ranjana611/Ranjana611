@@ -15,25 +15,20 @@
   <img src="gifs/giphy-lofi cat.webp" alt="Cat" width="200" border-radius: 15px; z-index: 10;"/>
 </div>
   </p>
-<br/>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #667eea 0%, #764ba2 100%); margin: 20px 0;"/>
-<br/>
-
-<br/>
-<br/>
 
 ## 🛠️ Tech Stack
+<br/>
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,figma,git,github,materialui,mongodb,notion,ps,sklearn,tailwind,tensorflow,vscode,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,figma,git,github,materialui,mongodb,notion,ps,sklearn,tailwind,tensorflow,vscode)](https://skillicons.dev)
   
 </div>
 
 <br/>
-<br/>
 
 ## 📊 Stats
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ranjana611&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" height="165"/>
@@ -44,12 +39,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjana611&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" height="165"/>
 </div>
 
-<br/>
-<br/>
-
 <div align="center">
   <img src="gifs/cool fire.gif" alt="Bonfire" width="250" style="border-radius: 15px;"/>
   
-  ### Thanks for visiting!
+  ### Thanks for visiting!🌱
 </div>
 <br/>
