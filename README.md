@@ -1,6 +1,6 @@
 <div style="position: relative;">
   <div align="left">
-    <img src="gifs/mario.gif" alt="Banner" style="border-radius: 15px; max-width: 500px;"/>
+    <img src="gifs/mario.gif" alt="Banner" style="border-radius: 15px; max-width: 600px; height: 400px"/>
   </div>
 <br/>
 <div>
