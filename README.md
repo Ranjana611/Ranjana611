@@ -1,11 +1,11 @@
 <div style="position: relative;">
   <div align="left">
-    <img src="gifs/mario.gif" alt="Banner" style="border-radius: 15px; max-width: 600px; height: 400px"/>
+    <img src="gifs/mario.gif" alt="Banner" style="border-radius: 15px; max-width: 800px; height: 350px; object-fit: contain;"/>
   </div>
 <br/>
 <div>
 
-# Hi👋, I'm Garuka Ranjana
+# 👋Hi, I'm Garuka Ranjana
 
   ### ML Enthusiast | UX/UI Designer
   
@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,figma,git,github,materialui,mongodb,notion,ps,sklearn,tailwind,tensorflow,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,figma,git,github,materialui,mongodb,notion,ps,sklearn,bootstrap,tailwind,tensorflow,flask,discord,vscode&perline=6)](https://skillicons.dev)
   
 </div>
 
