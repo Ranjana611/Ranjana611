@@ -40,12 +40,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://git-hub-readme-stats.vercel.app/api?username=Ranjana611&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ranjana611&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+  <img src="https://git-hub-readme-stats.vercel.app/api?username=Ranjana611&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" width="350"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ranjana611&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" width="350"/>
 </div>
 
 <div align="center">
-  <img src="https://git-hub-readme-stats.vercel.app/api/top-langs/?username=Ranjana611&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
+  <img src="https://git-hub-readme-stats.vercel.app/api/top-langs/?username=Ranjana611&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" width="300"/>
 </div>
 
 <div align="center">
