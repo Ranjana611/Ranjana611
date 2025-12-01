@@ -7,14 +7,23 @@
 
 # 👋Hi, I'm Garuka Ranjana
 
-  ### ML Enthusiast | UX/UI Designer
-  
-  <p style="max-width: 600px; margin: 0 auto;">
-    I am a Data Science undergraduate specializing in machine learning and user experience design. Proficient in Python, TensorFlow, and scikit-learn. With expertise in UX/UI design using Figma and a passion for creating intuitive interfaces, I bridge the gap between data-driven insights and user-centered design. Committed to innovation and crafting solutions that are both powerful and delightfully easy to use with rounded corners, of course😅.
-    <div align="right">
-  <img src="gifs/giphy-lofi cat.webp" alt="Cat" width="200" border-radius: 15px; z-index: 10;"/>
+<div style="display:flex; align-items:flex-start; gap:24px;">
+  <div style="flex:1; min-width:0;">
+    <h2>ML Enthusiast | UX/UI Designer</h2>
+    <p>
+      I am a Data Science undergraduate specializing in machine learning and user experience design.
+      Proficient in Python, TensorFlow, and scikit-learn. With expertise in UX/UI design using Figma and a
+      passion for creating intuitive interfaces, I bridge the gap between data-driven insights and
+      user-centered design. Committed to innovation and crafting solutions that are both powerful and delightfully
+      easy to use with rounded corners, of course 😄.
+    </p>
+  </div>
+
+  <div style="flex:0 0 260px;">
+    <img src="https://raw.githubusercontent.com/Ranjana611/Ranjana611/main/gifs/giphy-lofi cat.webp" width="260" alt="cat" />
+  </div>
 </div>
-  </p>
+
 
 ## 🛠️ Tech Stack
 <br/>
@@ -31,12 +40,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjana611&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjana611&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" height="165"/>
+  <img src="https://git-hub-readme-stats.vercel.app/api?username=Ranjana611&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ranjana611&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjana611&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" height="165"/>
+  <img src="https://git-hub-readme-stats.vercel.app/api/top-langs/?username=Ranjana611&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
 </div>
 
 <div align="center">
